@@ -1,6 +1,5 @@
 # Ignore all but fish related
-*
+/*
 
 !.gitignore
-!/fish
-!/fisherman
+!fish
